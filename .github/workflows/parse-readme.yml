@@ -1,0 +1,26 @@
+name: Parse README Papers
+
+on:
+  push:
+    paths:
+      - "README.md"
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Parse README
+        run: |
+          python .github/scripts/parse_readme.py
+      - name: Commit updated papers.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add papers.json
+          git commit -m "Update papers.json" || echo "No changes"
+          git push
