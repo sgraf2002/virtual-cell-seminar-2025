@@ -15,3 +15,7 @@
 - **Systema**: A Framework for Evaluating Genetic Perturbation Response Prediction Beyond Systematic Variation; Brbic lab, accepted in Nature Biotech, noch kein preprint
 - **PerturbBench**: https://arxiv.org/abs/2408.10609
 - **Foundation Model Limitations**: https://www.nature.com/articles/s41592-025-02772-6
+
+## Data 
+Don't think this should be publications for presentation but for further reading and additional resource
+- **scPerturb** harmonized dataset, poor interpolability between datasets, https://doi.org/10.1038/s41592-023-02144-y
