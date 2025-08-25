@@ -16,6 +16,10 @@
 - **PerturbBench**: https://arxiv.org/abs/2408.10609
 - **Foundation Model Limitations**: https://www.nature.com/articles/s41592-025-02772-6
 
+## Diffusion
+- **CellFlow**: https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1
+- **Squidiff**: https://www.biorxiv.org/content/10.1101/2024.11.16.623974v1.full.pdf
+
 ## Data 
 Don't think this should be publications for presentation but for further reading and additional resource
 - **scPerturb** harmonized dataset, poor interpolability between datasets, https://doi.org/10.1038/s41592-023-02144-y
