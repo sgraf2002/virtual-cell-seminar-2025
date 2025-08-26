@@ -12,7 +12,7 @@
 - **GPO-VAE**: https://arxiv.org/abs/2501.18973
 
 ## Benchmarking
-- **Systema**: A Framework for Evaluating Genetic Perturbation Response Prediction Beyond Systematic Variation; Brbic lab, accepted in Nature Biotech, noch kein preprint
+- **Systema**: A Framework for Evaluating Genetic Perturbation Response Prediction Beyond Systematic Variation; Brbic lab, Nature Biotech, https://doi.org/10.1038/s41587-025-02777-8
 - **PerturbBench**: https://arxiv.org/abs/2408.10609
 - **Foundation Model Limitations**: https://www.nature.com/articles/s41592-025-02772-6
 
