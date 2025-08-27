@@ -24,3 +24,4 @@
 ## Data 
 Don't think this should be publications for presentation but for further reading and additional resource
 - **scPerturb** harmonized dataset, poor interpolability between datasets, https://doi.org/10.1038/s41592-023-02144-y
+- **PerturBase** yet another DB issue, https://doi.org/10.1093/nar/gkae858
