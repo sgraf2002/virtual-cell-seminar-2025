@@ -17,6 +17,9 @@
 - **PerturbBench**: https://arxiv.org/abs/2408.10609
 - **Foundation Model Limitations**: https://www.nature.com/articles/s41592-025-02772-6
 
+## Review
+- **Virtual Cells: Predict, Explain, Discover**, https://doi.org/10.48550/arXiv.2505.14613
+
 ## Diffusion
 - **CellFlow**: https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1
 - **Squidiff**: https://www.biorxiv.org/content/10.1101/2024.11.16.623974v1.full.pdf
