@@ -27,6 +27,9 @@
 - **CellFlow**: https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1
 - **Squidiff**: https://www.biorxiv.org/content/10.1101/2024.11.16.623974v1.full.pdf
 
+## Graph based single-cell foundation models
+- **GREmLN**: https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1.abstract
+
 ## Data 
 Don't think this should be publications for presentation but for further reading and additional resource
 - **scPerturb** harmonized dataset, poor interpolability between datasets, https://doi.org/10.1038/s41592-023-02144-y
