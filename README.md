@@ -34,5 +34,6 @@
 - **Grow AI virtual cells**: https://doi.org/10.1038/s41422-025-01101-y
 
 ### Data 
+- **High Throughput CRIPR screening** review of the technology that produces the data, https://www.nature.com/articles/s43586-021-00093-4 
 - **scPerturb** harmonized dataset, poor interpolability between datasets, https://doi.org/10.1038/s41592-023-02144-y
 - **PerturBase** yet another DB issue, https://doi.org/10.1093/nar/gkae858
