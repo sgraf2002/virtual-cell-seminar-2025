@@ -32,6 +32,7 @@
 - **Virtual cell challenge**: https://doi.org/10.1016/j.cell.2025.06.008
 - **How to build the virtual cell**: https://doi.org/10.1016/j.cell.2024.11.015
 - **Grow AI virtual cells**: https://doi.org/10.1038/s41422-025-01101-y
+- **What is a cell type and how to define it?**: https://doi.org/10.1016/j.cell.2022.06.031
 
 ### Data 
 - **High Throughput CRIPR screening** review of the technology that produces the data, https://www.nature.com/articles/s43586-021-00093-4 
