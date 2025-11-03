@@ -25,6 +25,11 @@
 ### Graph based single-cell foundation models
 - **GREmLN**: https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1.abstract
 
+### Causal structure learning
+- **NOTEARS**: https://arxiv.org/pdf/1803.01422
+- **Differentiable Causal Discovery from Interventional Data**: https://arxiv.org/pdf/2007.01754
+- **Large-Scale Differentiable Causal Discovery of Factor Graphs**: https://arxiv.org/pdf/2206.07824
+
   
 ## Further Readings
 ### Review
