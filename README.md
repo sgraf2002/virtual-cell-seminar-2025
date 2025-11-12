@@ -10,6 +10,7 @@
 - **Variational Causal Inference**: https://arxiv.org/pdf/2210.00116
 - **MORPH**: https://doi.org/10.1101/2025.06.27.661992
 - **PertubNet**: https://doi.org/10.1038/s44320-025-00131-3
+- **Tahoe-x1**: https://doi.org/10.1101/2025.10.23.683759
 ### Explainability
 - **GPO-VAE**: https://arxiv.org/abs/2501.18973
 
